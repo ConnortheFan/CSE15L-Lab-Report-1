@@ -23,5 +23,8 @@ Now we can run some commands:
 * ` pwd ` prints your working directory
 * ` ls ` prints the list of files you have
 * ` ls <directory> ` prints the list of files at that directory
-* ` cp <directory> ` copies the files at that directory
+* ` cp <directory> <destination>` copies the files at that directory to the destination
 * ` cat <directory> ` concatanates (prints) the files at that directory
+* ` exit ` logs your out of the remote server
+![Commands](https://user-images.githubusercontent.com/110417453/212203538-3cdd0f05-2e21-4df8-81f9-a9247ac8e085.png)
+
