@@ -14,7 +14,14 @@ Follow the directions at https://stackoverflow.com/questions/42606837/how-do-i-u
 If you have bash active, your terminal should automatically start with `$`
 
 From here, type `ssh cs15lwi23atl@ieng6.ucsd.edu` or replace the atl to your specific account. If this is your first time connecting, and it asks `Are you sure you want to continue connecting (yes/no/[fingerprint])?`, type `yes` and press enter.
-Now enter your password and you will be logged into the remote server
+Now enter your password and you will be logged into the remote server.
 ![Connected to Remove Server](https://user-images.githubusercontent.com/110417453/212202565-f4f3679e-2a82-461d-8e6e-adfb85d6f4e0.png)
 
 ## Trying Some Commands
+Now we can run some commands:
+* ` cd ~ ` or ` cd ` changes your directory to the home
+* ` pwd ` prints your working directory
+* ` ls ` prints the list of files you have
+* ` ls <directory> ` prints the list of files at that directory
+* ` cp <directory> ` copies the files at that directory
+* ` cat <directory> ` concatanates (prints) the files at that directory
