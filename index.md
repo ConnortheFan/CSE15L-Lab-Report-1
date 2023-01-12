@@ -1,3 +1,3 @@
 Hello, world!
 
-https://connorthefan.github.io/cse15l-lab-reports/lab-report.html
+[Week 1 Lab Report](https://connorthefan.github.io/cse15l-lab-reports/lab-report.html)
